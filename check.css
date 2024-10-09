@@ -1,0 +1,93 @@
+#login_student {
+    position: relative;
+    right: 13rem;
+
+}
+
+#title2_student {    
+    margin-top:4.8rem;
+    margin-right: 12rem;
+    font-size: 1rem;
+    
+}
+
+
+#check_student {
+    margin-top: 0;
+    padding: 1rem;
+}
+
+#h2_check {
+    padding: 10px;
+    background-color: rgb(239, 238, 197);
+}
+
+button {
+    background-color: rgb(115, 67, 32);
+    padding: 5px;
+    border-left: 5px solid rgb(228, 217, 217);
+    color: rgb(255, 255, 255);
+    margin-left: 3.8rem;
+    transition: 0.5s;
+}
+
+button:hover {
+    transform: scale(1,1);
+    background-color: rgb(146, 119, 92);
+
+}
+
+#new_html {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(239, 238, 197);
+    margin-top: 0;
+}
+
+#label_login {
+    margin: 5px 10px;
+}
+
+#login_button {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(239, 238, 197);
+    margin: auto;
+    padding: 20px;
+}
+
+.student_button {
+    margin:auto;
+    margin-top: 5px;
+    
+}
+
+#info_materia {
+    display: flex;
+    flex-direction: column;
+}
+
+#materia_select {
+    margin: auto;
+    margin-top: 10px ;
+    padding: 5px 20px;
+
+}
+
+#calificacion_input {
+    margin: auto;
+    margin-top: 10px ;
+    padding: 5px 20px;
+
+}
+
+#add_materia_button {
+    margin: auto;
+    padding: 5px 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#materia_label {
+    margin: 5px 10px;
+}

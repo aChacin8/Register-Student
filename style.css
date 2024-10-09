@@ -1,0 +1,78 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/899/428/small/graph-paper-sheet-background-for-education-vector.jpg);
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+
+main {
+    background-image: url(https://i.pinimg.com/736x/8d/36/3f/8d363f0574d0a270580d03093ea329b9.jpg);
+    height: 36rem;
+    background-size: 48rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    white-space: nowrap;
+
+}
+
+#title_student {    
+    margin-left: 21rem;
+    margin-top: 3.5rem;
+    font-size: 1rem;
+
+}
+
+#h2_register {
+    padding: 5px;
+    margin-top: 8rem;
+    margin-bottom: 1.5rem;
+    background-color: rgb(239, 238, 197);
+
+}
+#form_student {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(239, 238, 197);
+    margin-top: 0;
+}
+
+#register_student {
+    position: relative;
+    right: 19rem;
+    padding: 20px;
+    
+}
+
+#label_register {
+    margin: 2px 10px -8px 10px;
+}
+
+#submit_register {
+    margin-top: 1.5rem;
+    transition: 0.5s;
+}
+
+#submit_register:hover {
+    transform: scale(1,1);
+    background-color: rgb(146, 119, 92);
+}
+
+input {
+    background-color: rgb(115, 67, 32);
+    padding: 3.5px;
+    border-left: 5px solid rgb(228, 217, 217);
+    color: rgb(255, 255, 255);
+    margin: 5px 5px 0px;
+
+}
+
+#materia_register {
+    margin-top: 8px;
+}
+
+select  {
+    background-color: rgb(115, 67, 32);
+    padding: 3.5px;
+    border-left: 5px solid rgb(228, 217, 217);
+    color: rgb(255, 255, 255);
+}
+
